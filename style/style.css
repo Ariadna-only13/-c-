@@ -1,0 +1,91 @@
+
+h1{
+  text-align:center;
+  color:  #F5F2E9;
+  background-color: #513D58;
+  font-size: 45px;
+  font-family: serif;
+  padding: 30px;
+  margin: 5px;
+  box-shadow:1px 100px 100px purple;
+}
+
+h3{
+  border: solid 3px #90686C;
+  border-radius:6px;
+  text-align: center;
+  box-shadow:1px 1px 10px #90686C;
+}
+
+img{
+  width: 610px;
+  height:300px;
+}
+
+h2{
+  color: #3D1639;
+  background-color: #90686C;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  margin-right:5px;
+  margin-bottom: 30px;
+  margin-top:40px;
+  box-shadow:1px 6px 10px #3D1639;
+}
+
+p{
+  color:#513D58;
+  font-size:18px;
+  font-family: Serif;
+  margin-right:5px;
+}
+
+body{
+  background-color: #F5F2E9;
+}
+
+.mark{
+  color: #F5F2E9;
+  background-color:#3D1639;
+  border: solid 1px #3D1639;
+  padding-right:25px;
+  padding-bottom:15px;
+  padding-left:10px;
+}
+
+ol{
+  margin-top: 10px;
+}
+
+.angel{
+  width:120px;
+  height:120px
+}
+
+.king{
+  width:120px;
+  height:120px;
+}
+
+.legenda{
+  border-bottom: solid 3px #513D58 ;
+  padding-bottom:15px;
+}
+
+.legenda2{
+  border-bottom: solid 3px #513D58 ;
+  padding-bottom:15px;
+  padding-right:0px;
+}
+
+.fenix{
+  width:200px;
+  height:190px;
+  position: relative;
+  left:200px;
+}
+
+
+
+
